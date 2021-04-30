@@ -1,0 +1,38 @@
+.header {
+  display: block;
+  font-size: 2em;
+  text-align: center;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+h2 {
+  text-align: center;
+  color: rebeccapurple;
+}
+
+body {
+  background-color: gainsboro;
+  font-family: Arial, sans-serif;
+}
+table {
+  border: 2px solid #9932cc;
+  width: 650px;
+  margin: 0 auto;
+}
+.code {
+  font-family: monospace;
+  background-color: beige;
+}
+th {
+  display: table-cell;
+  background-color: plum;
+  vertical-align: inherit;
+  font-weight: bold;
+  text-align: -internal-center;
+}
+td {
+  border-top: 1px solid #9932cc;
+}
